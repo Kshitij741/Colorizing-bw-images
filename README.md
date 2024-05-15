@@ -1,1 +1,1 @@
-# Colorizing-Black and White Images using Generative Adversarial Networks
+# Colorizing Black and White Images using Generative Adversarial Networks
